@@ -1,0 +1,1 @@
+Def: Function overriding is redefinition of base class function in its derived class with same signature i.e return type and parameters.
